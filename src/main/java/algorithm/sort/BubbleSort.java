@@ -13,7 +13,7 @@ public class BubbleSort {
 
     private int[] data;
 
-    BubbleSort(int[] data) {
+    public BubbleSort(int[] data) {
         this.data = data;
     }
 
